@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "name": "Informe Tecnico PC",
+  "notes": "Correccion automatica de escritura y sistema de actualizaciones.",
+  "sha256": "42a624c534a04ea3bc234c483e2fdb3bb342427609d9aae87b326e15da236719",
+  "indexChunks": [
+    "index_00.b64",
+    "index_01.b64",
+    "index_02.b64",
+    "index_03.b64",
+    "index_04.b64"
+  ]
+}
